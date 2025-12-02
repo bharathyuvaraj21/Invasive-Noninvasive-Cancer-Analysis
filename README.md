@@ -1,4 +1,4 @@
-# 🧬 Gene Expression Analysis and Cancer Classification using Machine Learning
+# 🧬 Gene Expression Analysis and Cancer Classification using Machine Learning and Statistical techniques
 
 ## 📘 Project Overview
 This project analyzes gene expression data to distinguish between invasive and non-invasive cancer types. Using supervised and unsupervised machine learning techniques, the study performs dimensionality reduction, clustering, and classification to identify key gene markers and classify cancer samples accurately.
